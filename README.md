@@ -12,6 +12,7 @@ A LGPD não é clara em alguns pontos. Por isso a GDPR é usada como referência
 - https://www.cookiebot.com/en/gdpr-cookies/ (!!)
 - https://www.politize.com.br/lei-de-protecao-de-dados/ (!!)
 - https://udm.hariken.co/terms (!! exemplo de termo "Nossa política" em .PDF onde há exchange de dados entre empresas. O aceite desse site é granular.)
+- https://github.com/LGPD-GDPR-Grupo-de-Estudo (boas fontes)
 - https://pt.wikipedia.org/wiki/Lei_Geral_de_Prote%C3%A7%C3%A3o_de_Dados_Pessoais
 - https://gdpr-info.eu/art-6-gdpr/
 - http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm
