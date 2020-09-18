@@ -4,7 +4,7 @@ Este é um guia rápido e objetivo com pontos que devem ser considerados na defi
 ### O que é LGPD
 A Lei Geral de Proteção de Dados é a lei brasileira baseada na européia GDPR. Esta lei destina-se a proteger e garantir a privacidade das pessoas que utilizam qualquer software.
 
-### O que é a GDPR
+### O que é a GDPR (en: General Data Protection Regulation) RGPD (pt-br: Regulamento Geral sobre a Proteção de Dados)
 A LGPD não é clara em alguns pontos. Por isso a GDPR é usada como referência. Ela é a lei europeia com mais de 200 páginas detalhando o que pode e o que não ser feito com informações pessoais e é precursora nesse sentido. Detalhe importante: mesmo fora da europa um sistema está sujeito à GDPR quando contem dados de pessoas europeias.
 
 `O Regulamento Geral sobre a Proteção de Dados 2016/679 é um regulamento do direito europeu sobre privacidade e proteção de dados pessoais, aplicável a todos os indivíduos na União Europeia e Espaço Económico Europeu que foi criado em 2018. Regulamenta também a exportação de dados pessoais para fora da UE e EEE.`
